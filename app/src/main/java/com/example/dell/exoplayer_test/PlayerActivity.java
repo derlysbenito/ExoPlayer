@@ -59,7 +59,7 @@ public class PlayerActivity extends AppCompatActivity {
     private boolean playWhenReady = true;
     private long playbackPosition;
     private int currentWindow;
-
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
